@@ -10,7 +10,7 @@ Student Grade 12 (FrontEnd Developer)
 
 *   🌍  I'm based in Suratthani , Thailand
 *   ✉️  You can contact me at [Marklnwzaza40@gmail.com](mailto:Marklnwzaza40@gmail.com)
-*   🧠  I'm learning Java and C++ 
+*   🧠  I'm learning Java C# and Flutter 
 ### Skills
 
 <p align="left">
