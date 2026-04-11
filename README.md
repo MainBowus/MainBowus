@@ -3,14 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer (Thammasat University)
 -------------------------------------
-
-"I am learning all programming languages for my future career"
-<br>
-"ผมกำลังเรียนรู้ภาษาการเขียนโปรแกรมทั้งหมดสำหรับอาชีพในอนาคต"
-
 *   🌍  I'm based in Suratthani , Thailand
 *   ✉️  You can contact me at [Marklnwzaza40@gmail.com](mailto:Marklnwzaza40@gmail.com)
-*   🧠  I'm learning Java and Linux
+*   🧠  I'm learning Linux
 ### Skills
 
 <p align="left">
